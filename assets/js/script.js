@@ -144,4 +144,4 @@ $(document).ready(function () {
         currentWeather(lastSearchedCity);
         console.log(`Last searched city: ${lastSearchedCity}`);
     }
-});
+});/*  */
